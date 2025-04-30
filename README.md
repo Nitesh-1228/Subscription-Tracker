@@ -7,7 +7,7 @@ A simple Python application to help users manage and track their recurring subsc
 - View all subscriptions in a list
 - Delete subscriptions you no longer need
 - Show total monthly cost of all subscriptions
-- Data is stored in a `subscriptions.json` file
+- Data is stored in a 'subscriptions.json' file
 
 ->Technologies Used
 - Python
@@ -15,4 +15,4 @@ A simple Python application to help users manage and track their recurring subsc
 
 ->Clone the Repository
 You can clone the repository by running the following command:
-
+git clone https://github.com/Nitesh-1228/Subscription-Tracker.git
